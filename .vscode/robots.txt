@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mohit-tiwary2610.github.io/sitemap.xml
