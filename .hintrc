@@ -11,13 +11,6 @@
         "link-name": "off"
       }
     ],
-    "compat-api/css": [
-      "default",
-      {
-        "ignore": [
-          "backdrop-filter"
-        ]
-      }
-    ]
+    "compat-api/css": "off"
   }
 }
